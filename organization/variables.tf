@@ -35,3 +35,4 @@ variable "organization_unit" {
   description = "Create organization units"
   type        = string
   default     = ""
+}
