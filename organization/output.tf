@@ -1,3 +1,3 @@
 output "ou_id" {
-  value = 
+  value = aws_organizations_organizational_unit.ous.id
 }
